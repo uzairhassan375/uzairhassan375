@@ -1,4 +1,4 @@
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="jawad-shah" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/jawad-shah?trk=profile-badge">Jawad Shah</a></div>
+
               
 <!-- Google Developer Profile README -->
 
@@ -58,6 +58,9 @@
   ✦  Open to OSS collaboration & high-impact product work
 ───────────────────────────────────────────────────────────────────────
 ```
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="jawad-shah" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/jawad-shah?trk=profile-badge"></a></div>
+              
 
 ---
 
