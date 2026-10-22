@@ -144,6 +144,8 @@
 <!-- Google-style Activity Graph -->
 <img src="https://github-act-graph.rodriaum.com/graph?username=uzairhassan375&bg_color=0d1117&color=4285F4&line=34A853&point=EA4335&area=true&hide_border=true" width="98%" alt="Activity Graph"/>
 
+<img src="/github-metrics.svg" alt="Metrics" width="98%"/>
+
 </div>
 
 ---
