@@ -1,21 +1,18 @@
-<div align="center">
+# 🚀 Uzair Hassan | AI Applied Engineer
 
-# Uzair Hassan
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FE7A16&width=600&lines=Custom+Chatbot+Architect;AI+Automation+Expert;Full+Stack+Architect" alt="Custom Chatbot Architect, AI Automation Expert, Full Stack Architect" />
+</p>
 
-I build [Kluck.ai](https://apps.shopify.com/kluckyv5), an AI store builder for Shopify.<br/>
-A product image becomes a ready-to-sell store: theme, copy, images, and publish.
-
-<br/>
-
-<a href="https://apps.shopify.com/kluckyv5">
-  <img src="https://img.shields.io/badge/Kluck.ai-96BF48?style=for-the-badge&logo=shopify&logoColor=white" alt="Kluck.ai on the Shopify App Store" />
-</a>
-&nbsp;
-<a href="https://products.myzambeel.com">
-  <img src="https://img.shields.io/badge/MyZambeel-4285F4?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="MyZambeel" />
-</a>
-
-</div>
+<p align="left">
+  <a href="https://apps.shopify.com/kluckyv5">
+    <img src="https://img.shields.io/badge/Kluck.ai-96BF48?style=for-the-badge&logo=shopify&logoColor=white" alt="Kluck.ai on the Shopify App Store" />
+  </a>
+  &nbsp;
+  <a href="https://products.myzambeel.com">
+    <img src="https://img.shields.io/badge/MyZambeel-4285F4?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="MyZambeel" />
+  </a>
+</p>
 
 <br/>
 
