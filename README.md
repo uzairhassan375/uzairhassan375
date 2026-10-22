@@ -155,10 +155,11 @@
 | &nbsp; | Project | Highlights | Link&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 |:---:|---------|------------|:---:|
 | 🔵 | **Kluck.ai** | Agentic Shopify store builder. A product image becomes a ready-to-sell store: theme, hero copy, FAQs, SEO, and images, then one-click publish | [App&nbsp;Store](https://apps.shopify.com/kluckyv5) |
-| 🔴 | **Kluck.ai** | Embedded app on React Router, Prisma, and the Admin API. Merchants install it, generate the store, and push the theme live | [App&nbsp;Store](https://apps.shopify.com/kluckyv5) |
-| 🟡 | **Kluck.ai** | Conversion themes — Amour, Linen, Classic, Cinematic, Velvet, Eclipse, Pulse, Luminous, Collective, Meridian — rendered in Liquid | [App&nbsp;Store](https://apps.shopify.com/kluckyv5) |
-| 🟢 | **Kluck.ai** | Click any section in the generated preview, edit the copy and images, and publish from the same screen | [App&nbsp;Store](https://apps.shopify.com/kluckyv5) |
-| 🔵 | **Kluck.ai** | Flask pipeline on OpenAI, Gemini, and LangChain for copy, FAQs, and product images, including bundles, upsells, and BOGO | [App&nbsp;Store](https://apps.shopify.com/kluckyv5) |
+| 🔴 | **MyZambeel** | Product catalog for Zambeel’s dropshipping platform. Next.js storefront in English and Arabic, with the products merchants sell | [Website](https://products.myzambeel.com) |
+| 🟡 | **Kluck.ai** | Embedded app on React Router, Prisma, and the Admin API. Merchants install it, generate the store, and push the theme live | [App&nbsp;Store](https://apps.shopify.com/kluckyv5) |
+| 🟢 | **Kluck.ai** | Conversion themes — Amour, Linen, Classic, Cinematic, Velvet, Eclipse, Pulse, Luminous, Collective, Meridian — rendered in Liquid | [App&nbsp;Store](https://apps.shopify.com/kluckyv5) |
+| 🔵 | **Kluck.ai** | Click any section in the generated preview, edit the copy and images, and publish from the same screen | [App&nbsp;Store](https://apps.shopify.com/kluckyv5) |
+| 🔴 | **Kluck.ai** | Flask pipeline on OpenAI, Gemini, and LangChain for copy, FAQs, and product images, including bundles, upsells, and BOGO | [App&nbsp;Store](https://apps.shopify.com/kluckyv5) |
 
 </div>
 
