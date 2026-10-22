@@ -88,17 +88,9 @@ A product image becomes a ready-to-sell store: theme, copy, images, and publish.
 
 <br/>
 
-## Selected work
+## Featured Projects
 
-<table>
-  <tr>
-    <td width="148"><b>Kluck.ai</b><br/><sub>Shopify · AI</sub></td>
-    <td>A product image becomes a ready-to-sell Shopify store: theme, copy, images, and one-click publish.</td>
-    <td width="110" align="right"><a href="https://apps.shopify.com/kluckyv5"><b>App&nbsp;Store</b></a></td>
-  </tr>
-  <tr>
-    <td width="148"><b>MyZambeel</b><br/><sub>Next.js · Catalog</sub></td>
-    <td>Product catalog for Zambeel dropshipping. Next.js storefront in English and Arabic.</td>
-    <td width="110" align="right"><a href="https://products.myzambeel.com"><b>Website</b></a></td>
-  </tr>
-</table>
+| &nbsp; | Project | Highlights | Link&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+|:---:|---------|------------|:---:|
+| 🔵 | **Kluck.ai** | A product image becomes a ready-to-sell Shopify store: theme, copy, images, and one-click publish. | [App&nbsp;Store](https://apps.shopify.com/kluckyv5) |
+| 🔴 | **MyZambeel** | Product catalog for Zambeel dropshipping. Next.js storefront in English and Arabic. | [Website](https://products.myzambeel.com) |
