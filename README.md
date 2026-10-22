@@ -52,7 +52,7 @@
 ───────────────────────────────────────────────────────────────────────
   ✦  Building Kluck.ai — an agentic Shopify store builder
   ✦  A product image becomes a ready-to-sell store: theme, copy, FAQs, images
-  ✦  React · Python · Flask · Shopify · OpenAI · one-click publish
+  ✦  React · Next.js · Python · Django · Flask · Shopify · OpenAI
 ───────────────────────────────────────────────────────────────────────
 ```
               
@@ -68,6 +68,7 @@
 <p>
   <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />&nbsp;
   <img src="https://skillicons.dev/icons?i=react" title="React" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" />&nbsp;
   <img src="https://skillicons.dev/icons?i=vite" title="Vite" />&nbsp;
   <img src="https://skillicons.dev/icons?i=tailwind" title="TailwindCSS" />
 </p>
@@ -76,16 +77,20 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=python" title="Python" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=django" title="Django" />&nbsp;
   <img src="https://skillicons.dev/icons?i=flask" title="Flask" />&nbsp;
   <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />&nbsp;
   <img src="https://skillicons.dev/icons?i=prisma" title="Prisma" />
 </p>
 
-**🟡 AI & Commerce**
+**🟡 Databases**
 
 <p>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />&nbsp;
-  <img src="https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" />
+  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB Atlas" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=supabase" title="Supabase" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=firebase" title="Firebase" />
 </p>
 
 **🟢 Cloud**
@@ -93,6 +98,13 @@
 <p>
   <img src="https://skillicons.dev/icons?i=aws" title="AWS" />&nbsp;
   <img src="https://skillicons.dev/icons?i=docker" title="Docker" />
+</p>
+
+**AI & Commerce**
+
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />&nbsp;
+  <img src="https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" />
 </p>
 
 ---
