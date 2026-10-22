@@ -25,21 +25,23 @@ A product image becomes a ready-to-sell store: theme, copy, images, and publish.
 
 <table>
   <tr>
-    <td align="center" width="25%">
-      <b>Frontend</b><br/><br/>
+    <td align="center" width="25%"><b>Frontend</b></td>
+    <td align="center" width="25%"><b>Backend</b></td>
+    <td align="center" width="25%"><b>Databases</b></td>
+    <td align="center" width="25%"><b>Cloud</b></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="25%">
       <img src="https://skillicons.dev/icons?i=js,react,nextjs,vite,tailwind&perline=3&theme=dark" alt="JavaScript, React, Next.js, Vite, Tailwind" />
     </td>
-    <td align="center" width="25%">
-      <b>Backend</b><br/><br/>
+    <td align="center" valign="top" width="25%">
       <img src="https://skillicons.dev/icons?i=python,django,flask,nodejs,prisma&perline=3&theme=dark" alt="Python, Django, Flask, Node.js, Prisma" />
     </td>
-    <td align="center" width="25%">
-      <b>Databases</b><br/><br/>
+    <td align="center" valign="top" width="25%">
       <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,firebase&perline=3&theme=dark" alt="MongoDB Atlas, MySQL, PostgreSQL, Supabase, Firebase" />
     </td>
-    <td align="center" width="25%">
-      <b>Cloud</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=aws,docker&perline=2&theme=dark" alt="AWS, Docker" />
+    <td align="center" valign="top" width="25%">
+      <img src="https://skillicons.dev/icons?i=aws,docker&perline=3&theme=dark" alt="AWS, Docker" />
     </td>
   </tr>
 </table>
