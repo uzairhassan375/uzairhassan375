@@ -16,14 +16,15 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, metadata
 
           plugin_languages: yes
           plugin_languages_ignored: html, css
-          plugin_languages_limit: 10
-          plugin_stars: yes
-          plugin_followup: yes
-          plugin_repositories: yes
-          plugin_achievements: yes
+          plugin_languages_limit: 5
+          plugin_languages_sections: most-used
+          plugin_languages_threshold: 2%
+
+          extras_css: |
+            svg { background-color: #ffffff; }
 
           config_timezone: Asia/Karachi
