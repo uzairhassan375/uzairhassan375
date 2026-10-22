@@ -21,24 +21,33 @@ A product image becomes a ready-to-sell store: theme, copy, images, and publish.
 
 ## Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,react,nextjs,vite,tailwind" alt="JavaScript, React, Next.js, Vite, Tailwind" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=python,django,flask,nodejs,prisma" alt="Python, Django, Flask, Node.js, Prisma" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,firebase" alt="MongoDB Atlas, MySQL, PostgreSQL, Supabase, Firebase" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker" alt="AWS, Docker" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Shopify-96BF48?style=flat-square&logo=shopify&logoColor=white" alt="Shopify" />
-</p>
+<div align="center">
 
-Frontend · Backend · Databases · Cloud and AI
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <b>Frontend</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=js,react,nextjs,vite,tailwind&perline=3&theme=dark" alt="JavaScript, React, Next.js, Vite, Tailwind" />
+    </td>
+    <td align="center" width="25%">
+      <b>Backend</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=python,django,flask,nodejs,prisma&perline=3&theme=dark" alt="Python, Django, Flask, Node.js, Prisma" />
+    </td>
+    <td align="center" width="25%">
+      <b>Databases</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,firebase&perline=3&theme=dark" alt="MongoDB Atlas, MySQL, PostgreSQL, Supabase, Firebase" />
+    </td>
+    <td align="center" width="25%">
+      <b>Cloud and AI</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=aws,docker&perline=2&theme=dark" alt="AWS, Docker" /><br/><br/>
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+      &nbsp;
+      <img src="https://img.shields.io/badge/Shopify-96BF48?style=flat-square&logo=shopify&logoColor=white" alt="Shopify" />
+    </td>
+  </tr>
+</table>
+
+</div>
 
 <br/>
 
