@@ -13,7 +13,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           # Your GitHub username
-          user: jawad114
+          user: uzairhassan375
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Template

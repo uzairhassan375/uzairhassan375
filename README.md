@@ -14,33 +14,30 @@
 
 <!-- Google-style Name -->
 <h1>
-  <span style="color:#4285F4">J</span><span style="color:#EA4335">a</span><span style="color:#FBBC05">w</span><span style="color:#4285F4">a</span><span style="color:#34A853">d</span>
+  <span style="color:#4285F4">U</span><span style="color:#EA4335">z</span><span style="color:#FBBC05">a</span><span style="color:#4285F4">i</span><span style="color:#34A853">r</span>
   &nbsp;
-  <span style="color:#EA4335">S</span><span style="color:#FBBC05">h</span><span style="color:#34A853">a</span><span style="color:#4285F4">h</span>
+  <span style="color:#EA4335">H</span><span style="color:#FBBC05">a</span><span style="color:#34A853">s</span><span style="color:#4285F4">s</span><span style="color:#EA4335">a</span><span style="color:#FBBC05">n</span>
 </h1>
 
 <!-- Badges -->
-<a href="https://jawad114.github.io/">
-  <img src="https://img.shields.io/badge/Full--Stack%20Engineer-34A853?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Full Stack" />
+<a href="https://kluck.ai/">
+  <img src="https://img.shields.io/badge/Building%20Kluck.ai-34A853?style=for-the-badge&logo=shopify&logoColor=white" alt="Kluck.ai" />
 </a>
-<a href="https://jawad114.github.io/">
-  <img src="https://img.shields.io/badge/4%2B%20Years%20Experience-4285F4?style=for-the-badge&logo=react&logoColor=white" alt="Experience" />
+<a href="https://apps.shopify.com/kluckyv5">
+  <img src="https://img.shields.io/badge/Shopify%20%C2%B7%20AI-4285F4?style=for-the-badge&logo=react&logoColor=white" alt="Shopify and AI" />
 </a>
 
 <br/><br/>
 
 <!-- Social Badges — Google Material Style -->
-<a href="mailto:col.jawadshahak47@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+<a href="https://kluck.ai/">
+  <img src="https://img.shields.io/badge/Kluck.ai-34A853?style=flat-square&logo=shopify&logoColor=white" />
 </a>&nbsp;
-<a href="https://www.linkedin.com/in/jawad-shah/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+<a href="https://apps.shopify.com/kluckyv5">
+  <img src="https://img.shields.io/badge/Shopify%20App-96BF48?style=flat-square&logo=shopify&logoColor=white" />
 </a>&nbsp;
-<a href="https://twitter.com/private_boii">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
-</a>&nbsp;
-<a href="https://jawad114.github.io/">
-  <img src="https://img.shields.io/badge/Portfolio-4285F4?style=flat-square&logo=google-chrome&logoColor=white" />
+<a href="https://github.com/uzairhassan375">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </a>
 
 </div>
@@ -51,11 +48,11 @@
 ## <img src="https://img.shields.io/badge/search-about%20me-white?style=flat-square&logo=google&logoColor=4285F4" height="28" />
 
 ```
-> About Jawad Shah                                                    🔍
+> About Uzair Hassan                                                  🔍
 ───────────────────────────────────────────────────────────────────────
-  ✦  Full-Stack Dev · building scalable web apps & APIs
-  ✦  Expertise: React · Node.js · NestJS · TypeScript · AWS · DevOps
-  ✦  Open to OSS collaboration & high-impact product work
+  ✦  Building Kluck.ai — an agentic Shopify store builder
+  ✦  A product image becomes a ready-to-sell store: theme, copy, FAQs, images
+  ✦  React · Python · Flask · Shopify · OpenAI · one-click publish
 ───────────────────────────────────────────────────────────────────────
 ```
               
@@ -70,38 +67,32 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" />&nbsp;
   <img src="https://skillicons.dev/icons?i=react" title="React" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=vite" title="Vite" />&nbsp;
   <img src="https://skillicons.dev/icons?i=tailwind" title="TailwindCSS" />
 </p>
 
 **🔴 Backend**
 
 <p>
+  <img src="https://skillicons.dev/icons?i=python" title="Python" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=flask" title="Flask" />&nbsp;
   <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=express" title="Express" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=nestjs" title="NestJS" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=go" title="GoLang" />
+  <img src="https://skillicons.dev/icons?i=prisma" title="Prisma" />
 </p>
 
-**🟡 Data**
+**🟡 AI & Commerce**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=firebase" title="Firebase" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />&nbsp;
+  <img src="https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" />
 </p>
 
-**🟢 Cloud & DevOps**
+**🟢 Cloud**
 
 <p>
   <img src="https://skillicons.dev/icons?i=aws" title="AWS" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=docker" title="Docker" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=kubernetes" title="Kubernetes" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=terraform" title="Terraform" />&nbsp;
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pulumi.svg" height="48" title="Pulumi" />
+  <img src="https://skillicons.dev/icons?i=docker" title="Docker" />
 </p>
 
 ---
@@ -114,14 +105,14 @@
   <tr>
     <td>
       <img 
-        src="https://github-readme-stats.vercel.app/api?username=jawad114&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true&cache_seconds=1800&bg_color=0d1117&title_color=4285F4&icon_color=34A853&text_color=ffffff&ring_color=EA4335" 
-        alt="Jawad's GitHub Stats" 
+        src="https://github-readme-stats.vercel.app/api?username=uzairhassan375&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true&cache_seconds=1800&bg_color=0d1117&title_color=4285F4&icon_color=34A853&text_color=ffffff&ring_color=EA4335" 
+        alt="Uzair's GitHub Stats" 
         height="165" 
       />
     </td>
     <td rowspan="2">
       <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=jawad114&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&cache_seconds=1800&bg_color=0d1117&title_color=4285F4&text_color=ffffff" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzairhassan375&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&cache_seconds=1800&bg_color=0d1117&title_color=4285F4&text_color=ffffff" 
         alt="Top Languages" 
         height="330" 
       />
@@ -130,7 +121,7 @@
   <tr>
     <td>
       <img 
-        src="https://streak-stats.demolab.com?user=jawad114&theme=tokyonight&hide_border=true&background=0d1117&ring=4285F4&fire=EA4335&currStreakLabel=FBBC05&sideLabels=34A853" 
+        src="https://streak-stats.demolab.com?user=uzairhassan375&theme=tokyonight&hide_border=true&background=0d1117&ring=4285F4&fire=EA4335&currStreakLabel=FBBC05&sideLabels=34A853" 
         alt="GitHub Streak" 
         height="165" 
       />
@@ -139,7 +130,7 @@
 </table>
 
 <!-- Google-style Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jawad114&bg_color=0d1117&color=4285F4&line=34A853&point=EA4335&area=true&hide_border=true" width="98%" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=uzairhassan375&bg_color=0d1117&color=4285F4&line=34A853&point=EA4335&area=true&hide_border=true" width="98%" alt="Activity Graph"/>
 
 </div>
 
@@ -151,12 +142,11 @@
 
 | &nbsp; | Project | Highlights | Link |
 |:---:|---------|------------|------|
-| 🔵 | **CitizenPath** | Refactored UI into reusable components → ~30% less code duplication, ~50% fewer UI bugs | [citizenpath.com](https://citizenpath.com/) |
-| 🔴 | **Moo.la** | Built modular React + NestJS fintech app → 30% API perf boost, 40% fewer redundant calls | [moo.la](https://moo.la/) |
-| 🟡 | **Diligentsia UK** | NestJS + PostgreSQL backend with JWT/RBAC → 100% protected routes, 45% fewer network requests | [diligentsia.co.uk](https://diligentsia.co.uk/) |
-| 🟢 | **MyZambeel** | Next.js e-commerce + Node/MongoDB backend → JWT auth, AWS deployment, 24/7 uptime | [portal.myzambeel.com](https://portal.myzambeel.com/login) |
-| 🔵 | **MZB Engineering** | Built from scratch with React + Zustand → ~50% faster feature delivery via modular architecture |https://mzbinc.com|
-| 🔴 | **Success.ai** | AI-powered outreach platform — scalable full-stack build with modern React & cloud infra | https://success.ai |
+| 🔵 | **Kluck.ai** | Agentic Shopify store builder. A product image becomes a ready-to-sell store: theme, hero copy, FAQs, SEO, and images, then one-click publish | [kluck.ai](https://kluck.ai/) |
+| 🔴 | **Shopify app** | Embedded app on React Router, Prisma, and the Admin API. Merchants install it, generate the store, and push the theme live | [App Store](https://apps.shopify.com/kluckyv5) |
+| 🟡 | **Themes** | Conversion themes — Amour, Linen, Classic, Cinematic, Velvet, Eclipse, Pulse, Luminous, Collective, Meridian — rendered in Liquid | [kluck.ai](https://kluck.ai/) |
+| 🟢 | **Store editor** | Click any section in the generated preview, edit the copy and images, and publish from the same screen | [kluck.ai](https://kluck.ai/) |
+| 🔵 | **AI generation** | Flask pipeline on OpenAI, Gemini, and LangChain for copy, FAQs, and product images, including bundles, upsells, and BOGO | [kluck.ai](https://kluck.ai/) |
 
 </div>
 
