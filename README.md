@@ -152,13 +152,13 @@
 
 <div align="center">
 
-| &nbsp; | Project | Highlights | Link |
-|:---:|---------|------------|------|
-| 🔵 | **Kluck.ai** | Agentic Shopify store builder. A product image becomes a ready-to-sell store: theme, hero copy, FAQs, SEO, and images, then one-click publish | [Kluck.ai](https://apps.shopify.com/kluckyv5) |
-| 🔴 | **Kluck.ai** | Embedded app on React Router, Prisma, and the Admin API. Merchants install it, generate the store, and push the theme live | [Kluck.ai](https://apps.shopify.com/kluckyv5) |
-| 🟡 | **Kluck.ai** | Conversion themes — Amour, Linen, Classic, Cinematic, Velvet, Eclipse, Pulse, Luminous, Collective, Meridian — rendered in Liquid | [Kluck.ai](https://apps.shopify.com/kluckyv5) |
-| 🟢 | **Kluck.ai** | Click any section in the generated preview, edit the copy and images, and publish from the same screen | [Kluck.ai](https://apps.shopify.com/kluckyv5) |
-| 🔵 | **Kluck.ai** | Flask pipeline on OpenAI, Gemini, and LangChain for copy, FAQs, and product images, including bundles, upsells, and BOGO | [Kluck.ai](https://apps.shopify.com/kluckyv5) |
+| &nbsp; | Project | Highlights | Link&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+|:---:|---------|------------|:---:|
+| 🔵 | **Kluck.ai** | Agentic Shopify store builder. A product image becomes a ready-to-sell store: theme, hero copy, FAQs, SEO, and images, then one-click publish | [App&nbsp;Store](https://apps.shopify.com/kluckyv5) |
+| 🔴 | **Kluck.ai** | Embedded app on React Router, Prisma, and the Admin API. Merchants install it, generate the store, and push the theme live | [App&nbsp;Store](https://apps.shopify.com/kluckyv5) |
+| 🟡 | **Kluck.ai** | Conversion themes — Amour, Linen, Classic, Cinematic, Velvet, Eclipse, Pulse, Luminous, Collective, Meridian — rendered in Liquid | [App&nbsp;Store](https://apps.shopify.com/kluckyv5) |
+| 🟢 | **Kluck.ai** | Click any section in the generated preview, edit the copy and images, and publish from the same screen | [App&nbsp;Store](https://apps.shopify.com/kluckyv5) |
+| 🔵 | **Kluck.ai** | Flask pipeline on OpenAI, Gemini, and LangChain for copy, FAQs, and product images, including bundles, upsells, and BOGO | [App&nbsp;Store](https://apps.shopify.com/kluckyv5) |
 
 </div>
 
