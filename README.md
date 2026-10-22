@@ -38,11 +38,8 @@ A product image becomes a ready-to-sell store: theme, copy, images, and publish.
       <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,firebase&perline=3&theme=dark" alt="MongoDB Atlas, MySQL, PostgreSQL, Supabase, Firebase" />
     </td>
     <td align="center" width="25%">
-      <b>Cloud and AI</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=aws,docker&perline=2&theme=dark" alt="AWS, Docker" /><br/><br/>
-      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
-      &nbsp;
-      <img src="https://img.shields.io/badge/Shopify-96BF48?style=flat-square&logo=shopify&logoColor=white" alt="Shopify" />
+      <b>Cloud</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=aws,docker&perline=2&theme=dark" alt="AWS, Docker" />
     </td>
   </tr>
 </table>
