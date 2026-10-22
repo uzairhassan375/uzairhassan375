@@ -19,34 +19,6 @@ A product image becomes a ready-to-sell store: theme, copy, images, and publish.
 
 <br/>
 
-## Selected work
-
-Two products. Kluck turns a product into a Shopify store. MyZambeel is the catalog merchants sell from.
-
-<table>
-  <tr>
-    <td width="148"><b>Kluck.ai</b><br/><sub>Shopify · AI</sub></td>
-    <td>
-      Agentic store builder. Merchants install the app, generate a store, and push the theme live.
-      <ul>
-        <li>Product image in. Theme, hero copy, FAQs, SEO, and images out, then one-click publish.</li>
-        <li>Embedded app on React Router, Prisma, and the Shopify Admin API.</li>
-        <li>Themes: Amour, Linen, Classic, Cinematic, Velvet, Eclipse, Pulse, Luminous, Collective, Meridian.</li>
-        <li>Click any section in the preview, edit the copy and images, and publish from the same screen.</li>
-        <li>Flask pipeline on OpenAI, Gemini, and LangChain, including bundles, upsells, and BOGO.</li>
-      </ul>
-    </td>
-    <td width="110" align="right"><a href="https://apps.shopify.com/kluckyv5"><b>App&nbsp;Store</b></a></td>
-  </tr>
-  <tr>
-    <td width="148"><b>MyZambeel</b><br/><sub>Next.js · Catalog</sub></td>
-    <td>Product catalog for the Zambeel dropshipping platform. Next.js storefront in English and Arabic, with the products merchants sell.</td>
-    <td width="110" align="right"><a href="https://products.myzambeel.com"><b>Website</b></a></td>
-  </tr>
-</table>
-
-<br/>
-
 ## Stack
 
 <p>
@@ -105,3 +77,20 @@ Frontend · Backend · Databases · Cloud and AI
 <img src="https://github-act-graph.rodriaum.com/graph?username=uzairhassan375&bg_color=0d1117&color=4285F4&line=34A853&point=EA4335&area=true&hide_border=true" width="98%" alt="Activity Graph"/>
 
 </div>
+
+<br/>
+
+## Selected work
+
+<table>
+  <tr>
+    <td width="148"><b>Kluck.ai</b><br/><sub>Shopify · AI</sub></td>
+    <td>A product image becomes a ready-to-sell Shopify store: theme, copy, images, and one-click publish.</td>
+    <td width="110" align="right"><a href="https://apps.shopify.com/kluckyv5"><b>App&nbsp;Store</b></a></td>
+  </tr>
+  <tr>
+    <td width="148"><b>MyZambeel</b><br/><sub>Next.js · Catalog</sub></td>
+    <td>Product catalog for Zambeel dropshipping. Next.js storefront in English and Arabic.</td>
+    <td width="110" align="right"><a href="https://products.myzambeel.com"><b>Website</b></a></td>
+  </tr>
+</table>
